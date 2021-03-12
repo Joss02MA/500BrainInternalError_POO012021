@@ -1,0 +1,16 @@
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\bin\MCD\Debug\net5.0\FirstProgram.exe
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\bin\MCD\Debug\net5.0\FirstProgram.deps.json
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\bin\MCD\Debug\net5.0\FirstProgram.runtimeconfig.json
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\bin\MCD\Debug\net5.0\FirstProgram.runtimeconfig.dev.json
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\bin\MCD\Debug\net5.0\FirstProgram.dll
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\bin\MCD\Debug\net5.0\ref\FirstProgram.dll
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\bin\MCD\Debug\net5.0\FirstProgram.pdb
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\obj\MCD\Debug\net5.0\FirstProgram.csprojAssemblyReference.cache
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\obj\MCD\Debug\net5.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\obj\MCD\Debug\net5.0\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\obj\MCD\Debug\net5.0\FirstProgram.AssemblyInfo.cs
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\obj\MCD\Debug\net5.0\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\obj\MCD\Debug\net5.0\FirstProgram.dll
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\obj\MCD\Debug\net5.0\ref\FirstProgram.dll
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\obj\MCD\Debug\net5.0\FirstProgram.pdb
+C:\Users\JoseArmando\Desktop\POO 0121\Opt2\FirstProgram\obj\MCD\Debug\net5.0\FirstProgram.genruntimeconfig.cache
