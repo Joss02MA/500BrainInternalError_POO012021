@@ -14,12 +14,12 @@ namespace FirstProgram
             Console.Write("Enter a value for b: ");
             numberB = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {numberA} + {numberB} equals {AddNumbers(numberA, numberB)}");
+            Console.WriteLine($"Adding {numberA} + {numberB} equals {SubstractNumbers(numberA, numberB)}");
         }
 
-        public static int AddNumbers(int numberA, int numberB)
+        public static int SubstractNumbers(int numberA, int numberB)
         {
-            return numberA + numberB;
+            return numberA - numberB;
         }
     }
 }
